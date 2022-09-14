@@ -1,8 +1,7 @@
 #include "main.h"
 /**
 *print_alphabet_x10 - prints alphabet letters
-*followed by new line
-*desc: for while loop is used
+* fot while loop used to operate
 *Return: no return
 */
 void print_alphabet_x10(void)
